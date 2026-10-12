@@ -1,0 +1,10 @@
+<svg width="220" height="48" viewBox="0 0 220 48" xmlns="http://www.w3.org/2000/svg">
+    <!-- Cross-in-circle mark -->
+    <circle cx="24" cy="24" r="22" fill="#14324A" fill-opacity="0.08"/>
+    <circle cx="24" cy="24" r="16" fill="#14324A"/>
+    <rect x="20.5" y="13" width="7" height="22" rx="2" fill="#D6EFFA"/>
+    <rect x="13" y="20.5" width="22" height="7" rx="2" fill="#D6EFFA"/>
+    <!-- Wordmark -->
+    <text x="54" y="22" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#14324A">MediQuick</text>
+    <text x="54" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#3D6480">Pharmacy &#8226; Kurunegala</text>
+</svg>
